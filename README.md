@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana Natarajan</h1>
-<h3 align="center">A Python Full Stack Developer is a software engineer proficient in both front-end and back-end development using Python-based technologies. They build complete web applications, handling everything from user interfaces to server-side logic, databases, and deployment.</h3>
+<h3 align="center">Creative Frontend Developer skilled in HTML, CSS, Bootstrap,JavaScript, React.js, focused on building responsive and user-centric web interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthana-natarajan&label=Profile%20views&color=0e75b6&style=flat" alt="keerthana-natarajan" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python full stack project**
+- 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **Python full stack project**
+- 🌱 I’m currently learning **React project**
 
-- 👯 I’m looking to collaborate on **Python full stack project**
+- 👯 I’m looking to collaborate on **Frontend development**
 
-- 🤝 I’m looking for help with **Front end, back end and Python full stack project**
+- 🤝 I’m looking for help with **Front end project**
 
 - 📫 How to reach me **keerthananatarajan37@gmail.com**
 
